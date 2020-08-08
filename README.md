@@ -14,6 +14,7 @@
   - Mobile App development
   - Swift OS Native App development.
   - OS Native app development.
+  - Firebase
 ### 💬 Ask me about ...
   - Frontend (React JS)
   - Backend (Express.js, Spring Boot, MySQL, MongoDB)
