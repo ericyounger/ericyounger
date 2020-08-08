@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A third year computer science student at NTNU in Norway</h3>
 
 - 🔭 I’m currently working on [HomeAtmosphere](https://github.com/ericyounger/HomeAtmosphere)
 
