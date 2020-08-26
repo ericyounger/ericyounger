@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HomeAtmosphere](https://github.com/ericyounger/HomeAtmosphere)
 
-- 🌱 I’m currently learning **MQTT Protocol**
+- 🌱 I’m currently learning **Android App Development, C++, Machine learning, and Security at NTNU**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ericyounger?tab=repositories](https://github.com/ericyounger?tab=repositories)
 
