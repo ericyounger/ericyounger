@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">A third year computer science student at NTNU in Norway</h3>
 
-- 🔭 I’m currently working on [HomeAtmosphere](https://github.com/ericyounger/HomeAtmosphere)
+- 🔭 I’m currently working on my Bachelor thesis
 
 - 🌱 I’m currently learning **Typescript and React Native**
 
