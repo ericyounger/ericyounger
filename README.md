@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Eric</h1>
-<h3 align="center">A third year computer science student at NTNU in Norway</h3>
+<h1 align="center">Hello there 👋</h1>
+<h3 align="center">BS Computer science graduate working as a IOT software developer </h3>
 
-- 🔭 I’m currently working on my Bachelor thesis
+What i'm doing these days:
 
-- 🌱 I’m currently learning **Typescript and React Native**
+- 🔭 Looking into parsing theory.
 
-- 👨‍💻 All of my projects are available at [https://github.com/ericyounger?tab=repositories](https://github.com/ericyounger?tab=repositories)
+- 🌱 Learning **Vue 3 and Golang**
+ 
+- 📖 Reading book: "Clean code"
 
-- 💬 Ask me about **Frontend, Backend, or Microcontroller stuff**
+- 🕹️ Playing Metroid fusion
 
-- 📫 How to reach me **eric.younger@ntnu.no**
 
 
 
